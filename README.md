@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/214175219.svg)](https://zenodo.org/badge/latestdoi/214175219)
+
 # Pressure solution modelling using IODP data from Expedition 375, Site U1520
 Code for recreating and exploring the figures produced for a study on shallow (<1 km below sea floor) stylolites and pressure solution seaward of the Hikurangi Margin (resubmitted to Tectonics, 2020).
 
